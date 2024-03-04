@@ -14,7 +14,7 @@
 
 > https://github.com/team4-order/team4-main/discussions
 ------
-1. 역할 분담
+## 1. 역할 분담
 - Role 
     - PM:😺채영 
     - 형상관리:🦔민희 
@@ -29,15 +29,19 @@
 * refactoring.
  - ...?
 ```
-2. 자리 배치, 이동
+## 2. 자리 배치, 이동
 - 완료
 
 
+## 3. Ground rule 수립
+-  [PR](https://github.com/beyond-sw-camp/beyond-sw-camp-be01_last-dance/pull/10)
 
-3. 팀, 개인 목표 작성
-- pr 링크
 
-4. Ground-rule 작성
-- 링크
+## 4. 일정관리 방법 및 GITHUB 툴셋 정의
+- PR
 
-4. 
+## 5. 팀, 개인 목표 작성
+- [PR]
+
+
+## 6. 팀별 Tea time
