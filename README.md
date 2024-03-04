@@ -5,6 +5,11 @@
 ## 24-03-04 오전 강사님 설명
 
 1. 역할 분담
+- Role 
+    - PM:😺채영 
+    - 형상관리:🦔민희 
+    - 애자일관리:🐯민성 
+    - TL:🐹승민
 pm, agile coach, 형상관리자, Tech Leader, presenter .....
 pm = 관리
 ```
