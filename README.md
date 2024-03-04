@@ -5,7 +5,7 @@
 ## 24-03-04
 
 <details>
-    <summary>24-03-04 강사님 오전 설명</summary>
+    <summary>24-03-04 강사님 오전 설명 (클릭하여 확인)</summary>
 
 ```
 * wbs 작성
