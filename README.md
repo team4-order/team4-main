@@ -28,7 +28,7 @@
 
 ------
 
-## 공지사항 url
+## Discussions (공지사항 url)
 
 > https://github.com/team4-order/team4-main/discussions
 ------
