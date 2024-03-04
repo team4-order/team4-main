@@ -29,7 +29,7 @@
 
 > https://github.com/team4-order/team4-main/discussions
 ------
-1. 역할 분담
+## 1. 역할 분담
 - Role 
     - PM:😺채영 
     - 형상관리:🦔민희 
@@ -39,15 +39,15 @@
 
 
 
-2. 자리 배치, 이동
+## 2. 자리 배치, 이동
 - [x] 자리 배치 및 이동
-
-3. 팀, 개인 목표 작성
+      
+## 3. 팀, 개인 목표 작성
 - https://github.com/team4-order/team4-main/issues/6
 
-4. Ground-rule 작성
+## 4. Ground-rule 작성
 - https://github.com/beyond-sw-camp/beyond-sw-camp-be01_last-dance/pull/10
 
-5. .
+## 5. .
 
 ## 24-03-05 
