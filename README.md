@@ -10,8 +10,6 @@
     - 형상관리:🦔민희 
     - 애자일관리:🐯민성 
     - TL:🐹승민
-pm, agile coach, 형상관리자, Tech Leader, presenter .....
-pm = 관리
 ```
 * wbs 작성
  - 일정이 바뀔 때 마다, 지속적인 수정 및 회고
