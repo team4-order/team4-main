@@ -48,6 +48,8 @@
 ## 4. Ground-rule 작성
 - https://github.com/beyond-sw-camp/beyond-sw-camp-be01_last-dance/pull/10
 
-## 5. .
+## 5. 팀별 Tea time 정하기
+- 매일 오후 4:00 / 30분 동안 Tea time
+- 집중 기간 피해서 진행 
 
 ## 24-03-05 
