@@ -4,6 +4,11 @@
 
 ## 24-03-04 오전 강사님 설명
 
+```WBS
+- https://docs.google.com/spreadsheets/d/1lLhSgIAP7GWLkH6b0-rhK7fe6LqrSkrGswynQkMl8Jc/edit?usp=sharing
+```
+
+
 1. 역할 분담
 - Role 
     - PM:😺채영 
@@ -20,4 +25,12 @@
  - ...?
 ```
 2. 자리 배치, 이동
+- 완료
 
+3. 팀, 개인 목표 작성
+- pr 링크
+
+4. Ground-rule 작성
+- 링크
+
+4. 
