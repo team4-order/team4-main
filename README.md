@@ -45,7 +45,7 @@
 ## 2. 자리 배치, 이동
 - [x] 자리 배치 및 이동
       
-## 3. 팀, 개인 목표 작성 branch 0.1.3/team-goal
+## 3. 팀, 개인 목표 작성 branch 0.1.3/team-goal branch 0.1.4/personal-goal
 - https://github.com/team4-order/team4-main/issues/6
 
 ## 4. Ground-rule 작성
