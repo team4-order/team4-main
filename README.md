@@ -1,6 +1,8 @@
-# team4-main
+## team4-main
 
-## 24-03-04
+# 주문 관리 시스템 ( Order Management System)
+
+## 24-03-04 오전 강사님 설명
 
 1. 역할 분담
 pm, agile coach, 형상관리자, Tech Leader, presenter .....
@@ -15,8 +17,4 @@ pm = 관리
  - ...?
 
 2. 자리 배치, 이동
-
-3.  공급망 관리를 위한 주문 관리 시스템
-
-주문 관리 시스템 ( Order Management System)
 
