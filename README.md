@@ -10,6 +10,10 @@
 
 ------
 
+## 공지사항 url
+
+> https://github.com/team4-order/team4-main/discussions
+------
 1. 역할 분담
 - Role 
     - PM:😺채영 
