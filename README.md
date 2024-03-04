@@ -2,14 +2,10 @@
 
 # 주문 관리 시스템 ( Order Management System)
 
-## 24-03-04 오전 강사님 설명
+## 24-03-04
 
-1. 역할 분담
-
-- [ ] 역할 분담
-
-pm, agile coach, 형상관리자, Tech Leader, presenter .....
-pm = 관리
+<details>
+    <summary>24-03-04 강사님 오전 설명</summary>
 
 ```
 * wbs 작성
@@ -21,16 +17,37 @@ pm = 관리
  - ...?
 ```
 
-``` # 역할 분담 결과
-PM : 윤채영
-Tech Leader : 전승민
-Agile coach : 김민성
-Git Manager : 박민희
-```
+</details>
+
+## WBS url
+
+> https://docs.google.com/spreadsheets/d/1lLhSgIAP7GWLkH6b0-rhK7fe6LqrSkrGswynQkMl8Jc/edit?usp=sharing
+
+------
+
+## 공지사항 url
+
+> https://github.com/team4-order/team4-main/discussions
+------
+## 1. 역할 분담
+- Role 
+    - PM:😺채영 
+    - 형상관리:🦔민희 
+    - 애자일관리:🐯민성 
+    - TL:🐹승민
+- 역할 분담 PR url [https://github.com/team4-order/team4-main/pull/1]
 
 
 
+## 2. 자리 배치, 이동
+- [x] 자리 배치 및 이동
+      
+## 3. 팀, 개인 목표 작성
+- https://github.com/team4-order/team4-main/issues/6
 
+## 4. Ground-rule 작성
+- https://github.com/beyond-sw-camp/beyond-sw-camp-be01_last-dance/pull/10
 
-2. 자리 배치, 이동
+## 5. .
 
+## 24-03-05 
