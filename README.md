@@ -4,10 +4,11 @@
 
 ## 24-03-04 오전 강사님 설명
 
-```WBS
-- https://docs.google.com/spreadsheets/d/1lLhSgIAP7GWLkH6b0-rhK7fe6LqrSkrGswynQkMl8Jc/edit?usp=sharing
-```
+## WBS url
 
+> https://docs.google.com/spreadsheets/d/1lLhSgIAP7GWLkH6b0-rhK7fe6LqrSkrGswynQkMl8Jc/edit?usp=sharing
+
+------
 
 1. 역할 분담
 - Role 
