@@ -2,7 +2,7 @@
 
 # 주문 관리 시스템 ( Order Management System)
 
-## 24-03-04 오전 강사님 설명
+## 24-03-04
 
 ## WBS url
 
