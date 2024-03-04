@@ -19,6 +19,9 @@
 
 </details>
 
+## Notion page
+> https://checkered-nutmeg-dd6.notion.site/TEAM-4-ORDER-SERVICE-d22c6eb413ce499db20adf3b6e800eaa?pvs=4
+
 ## WBS url
 
 > https://docs.google.com/spreadsheets/d/1lLhSgIAP7GWLkH6b0-rhK7fe6LqrSkrGswynQkMl8Jc/edit?usp=sharing
