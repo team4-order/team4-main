@@ -32,6 +32,11 @@
 
 > https://github.com/team4-order/team4-main/discussions
 ------
+
+## Google Calender
+> https://calendar.google.com/calendar/u/0/r?cid=NjEwOWQ2ZWY0NTA5YTYyMzBkNDQ0NmIzOTQ3NDQ5ZGZmYjAxMWRmYzU5NDgxYzk4YjA3MzNiYTBmNzQ1ZThjNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
+------
+
 ## 1. 역할 분담
 - Role 
     - PM:😺채영 
