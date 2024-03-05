@@ -1,4 +1,6 @@
-# <center>team4-main</center>
+<h1 align="center">
+ team4-order / OMS project
+</h1>
 
 
 <img src="https://github.com/team4-order/team4-main/assets/125641153/25990fb7-215b-4089-9736-26f5d36699ce" width="100%"/>
