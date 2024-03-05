@@ -37,6 +37,11 @@
 > https://calendar.google.com/calendar/u/0/r?cid=NjEwOWQ2ZWY0NTA5YTYyMzBkNDQ0NmIzOTQ3NDQ5ZGZmYjAxMWRmYzU5NDgxYzk4YjA3MzNiYTBmNzQ1ZThjNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
 ------
 
+## Google 공동 문서함
+> https://drive.google.com/drive/folders/1neenhFGu6rSoFjx8ahKNsNMV5b78LC92
+------
+
+
 ## 1. 역할 분담
 - Role 
     - PM:😺채영 
