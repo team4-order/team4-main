@@ -1,5 +1,8 @@
 ## team4-main
 
+![image](https://github.com/team4-order/team4-main/assets/125641153/25990fb7-215b-4089-9736-26f5d36699ce)
+
+
 # 주문 관리 시스템 ( Order Management System)
 
 |Notion page|WBS page|Discussions|Google Calender|Google docs share|
