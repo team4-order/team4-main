@@ -2,6 +2,11 @@
 
 # 주문 관리 시스템 ( Order Management System)
 
+|Notion page|WBS page|Discussions|Google Calender|Google docs share|
+|-----------|--------|-----------|---------------|-----------------|
+|## [Notion page](https://checkered-nutmeg-dd6.notion.site/TEAM-4-ORDER-SERVICE-d22c6eb413ce499db20adf3b6e800eaa?pvs=4)|## [WBS url](https://docs.google.com/spreadsheets/d/1lLhSgIAP7GWLkH6b0-rhK7fe6LqrSkrGswynQkMl8Jc/edit?usp=sharing)|## [Discussions (공지사항 url)](https://github.com/team4-order/team4-main/discussions)|## [Google Calender](https://calendar.google.com/calendar/u/0/r?cid=NjEwOWQ2ZWY0NTA5YTYyMzBkNDQ0NmIzOTQ3NDQ5ZGZmYjAxMWRmYzU5NDgxYzk4YjA3MzNiYTBmNzQ1ZThjNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)|## [Google 공동 문서함](https://drive.google.com/drive/folders/1neenhFGu6rSoFjx8ahKNsNMV5b78LC92)|
+
+
 ## 24-03-04
 
 <details>
@@ -19,9 +24,6 @@
 
 </details>
 
-|Notion page|WBS page|Discussions|Google Calender|Google docs share|
-|-----------|--------|-----------|---------------|-----------------|
-|## [Notion page](https://checkered-nutmeg-dd6.notion.site/TEAM-4-ORDER-SERVICE-d22c6eb413ce499db20adf3b6e800eaa?pvs=4)|## [WBS url](https://docs.google.com/spreadsheets/d/1lLhSgIAP7GWLkH6b0-rhK7fe6LqrSkrGswynQkMl8Jc/edit?usp=sharing)|## [Discussions (공지사항 url)](https://github.com/team4-order/team4-main/discussions)|## [Google Calender](https://calendar.google.com/calendar/u/0/r?cid=NjEwOWQ2ZWY0NTA5YTYyMzBkNDQ0NmIzOTQ3NDQ5ZGZmYjAxMWRmYzU5NDgxYzk4YjA3MzNiYTBmNzQ1ZThjNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)|## [Google 공동 문서함](https://drive.google.com/drive/folders/1neenhFGu6rSoFjx8ahKNsNMV5b78LC92)|
 
 
 ## 1. 역할 분담
