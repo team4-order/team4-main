@@ -32,8 +32,8 @@
 ## 1. 역할 분담
 - Role 
     - PM:😺채영 
-    - 형상관리:🦔민희 
-    - 애자일관리:🐯민성 
+    - GM:🦔민희 
+    - AC:🐯민성 
     - TL:🐹승민
 - 역할 분담 PR url [https://github.com/team4-order/team4-main/pull/1]
 
