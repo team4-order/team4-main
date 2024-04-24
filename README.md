@@ -9,10 +9,9 @@
 
 # 산출물 링크
 
-|Backend|Frontend|DB|Stresstest|Proxy|
-|-----------|--------|-----------|---------------|-----------------|
-|[Backend 개발 레포](https://github.com/team4-order/4team_final_MainSpring)|[Frontend 개발 레포](https://github.com/team4-order/4team_final_MainVue)|[DB 산출물 아직 없음](https://github.com/team4-order/4team_final_Database)|[Stresstest 산출물 아직 없음](https://github.com/team4-order/4team_final_Stresstest)|[Proxy 산출물 아직 없음](https://github.com/team4-order/4team_final_Proxy)
-
+|Backend|Frontend|DB|
+|-----------|--------|-----------|
+|[Backend 개발 레포](https://github.com/team4-order/4team_final_MainSpring)|[Frontend 개발 레포](https://github.com/team4-order/4team_final_MainVue)|[DB 산출물 아직 없음](https://github.com/team4-order/4team_final_Database)|
 1. Backend 레포에서 브랜치 Dev 0.1.0에 개발 현황을 확인 가능
 2. Frontend 레포에서 브랜치 dev 0.1.1에서 개발 현황을 확인 가능
 - dev브랜치가 임시 main브랜치와 비슷해 지금까지 개발한 기능들을 dev에 합치는 중
